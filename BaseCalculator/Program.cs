@@ -5,7 +5,7 @@ int res2 = calculator.Calc("+", 2, 1);
 int res3 = calculator.Calc("/", 4, 1);
 int res4 = calculator.Calc("*", 2, 1);
 
-int res5 = calculator.Calc("3", 1, 2);
+int res5 = calculator.Calc("+", 1, 2);
 
 
 
